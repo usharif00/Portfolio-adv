@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add custom styles for dark mode if needed */
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section {
+  margin-bottom: -1px; /* Prevents visible gaps */
+}
+/* Add to your custom CSS (index.css) */
+#projects {
+  border-top: 1px solid rgba(255, 255, 255, 0.1); /* Light border line for dark mode */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Light border line for dark mode */
+}
+
+@media (prefers-color-scheme: dark) {
+  #projects {
+    border-top: 1px solid rgba(255, 255, 255, 0.2); /* Slightly brighter border for dark mode */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Slightly brighter border for dark mode */
+  }
+}
+#projects {
+  border-top: none !important;
+  border-bottom: none !important;
+}
