@@ -13,7 +13,7 @@ const Header = () => {
         I'm a Front-End Developer creating beautiful and functional web pages.
       </p>
       <a
-        href="/PDFs/Usman Sharif - CV.pdf"
+        href="public/PDFs/Usman Sharif - CV.pdf"
         className="download-btn bg-transparent border-2 border-white text-white py-2 px-6 rounded-full font-medium tracking-wide transition-colors duration-300 ease-in-out hover:bg-white hover:text-black dark:border-gray-200 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
       >
         Download CV
