@@ -15,7 +15,7 @@ const About = () => {
             Hi, I'm <span className="font-extrabold text-xl sm:text-2xl text-gray-200 dark:text-gray-200">Muhammad Usman Sharif</span>, a front-end developer with a passion for learning new technologies.
           </p>
           <p className="text-base sm:text-lg text-gray-300 dark:text-gray-500">
-            I am a Front-End Developer (beginner) on a journey to becoming a Full Stack Developer in the future. I enjoy learning new technologies and keeping up to date with the latest trends in software development.
+            I am a Front-End Developer (beginner). I enjoy learning new technologies and keeping up to date with the latest trends in software development.
           </p>
         </div>
       </div>
