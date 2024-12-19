@@ -11,7 +11,7 @@ const About = () => {
           About Me
         </h2>
         <div className="bg-gradient-to-r from-gray-900 to-gray-800 dark:from-gray-800 dark:to-black p-8 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300 ease-in-out">
-          <p className="text-lg sm:text-xl mb-4 text-gray-400 dark:text-gray-300">
+          <p className="text-lg sm:text-xl mb-4 text-gray-300 dark:text-gray-400">
             Hi, I'm <span className="font-extrabold text-xl sm:text-2xl text-gray-200 dark:text-gray-200">Muhammad Usman Sharif</span>, a front-end developer with a passion for learning new technologies.
           </p>
           <p className="text-base sm:text-lg text-gray-300 dark:text-gray-500">
