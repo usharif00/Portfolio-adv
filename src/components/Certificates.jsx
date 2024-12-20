@@ -19,21 +19,21 @@ const Certificates = () => {
 
   const certificatesData = [
     {
-      img: "/images/Meta course.png",
+      img: "images/Meta course.png",
       title: "Intro to Front-End",
       description: "Introduction to Front-End Development course offered by META",
       viewLink: "/PDFs/Coursera Certificate.pdf",
       verifyLink: "https://www.coursera.org/account/accomplishments/verify/ZWS67S2B9RUL"
     },
     {
-      img: "/images/Chatbot.png",
+      img: "images/Chatbot.png",
       title: "Smart Chatbot",
       description: "Use SharePoint & Power Virtual Agent to Create Smart Chatbot",
       viewLink: "/PDFs/Chatbot- Coursera.pdf",
       verifyLink: "https://www.coursera.org/account/accomplishments/verify/JNVJP67NPPAB"
     },
     {
-      img: "/images/HMC Letter.png",
+      img: "images/HMC Letter.png",
       title: "HMC Internship Letter",
       description: "HMC Internship completion letter (01 August 2022 - 31 August 2022, 04 Weeks)",
       viewLink: "/PDFs/HMC.pdf"
