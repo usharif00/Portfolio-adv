@@ -7,7 +7,7 @@ const Skills = () => {
       
       <ul className="list-none p-0 flex flex-wrap justify-center gap-6">
         {[
-          "HTML5", "CSS3", "JavaScript", "C++", "Python", "Java", "Bootstrap 5", 
+          "C++", "HTML5", "CSS3", "JavaScript", "C++", "Python", "Java", "Bootstrap 5", 
           "JQuery", "MySQL", "Tailwind CSS", "React.js", "PHP", 
           "MS PowerBi", "MS Word", "MS PowerPoint", "MS Excel"
         ].map(skill => (

@@ -1,5 +1,9 @@
 import React, { useEffect } from 'react';
 import '../index.css'; // Import custom CSS
+// Import images directly
+import MetaCourseImg from '../images/Meta course.png';
+import ChatbotImg from '../images/Chatbot.png';
+import HMCInternshipImg from '../images/HMC Letter.png';
 
 const Certificates = () => {
   useEffect(() => {
@@ -19,26 +23,27 @@ const Certificates = () => {
 
   const certificatesData = [
     {
-      img: "/images/Meta course.png",
+      img: MetaCourseImg,
       title: "Intro to Front-End",
       description: "Introduction to Front-End Development course offered by META",
-      viewLink: "/PDFs/Coursera Certificate.pdf",
-      verifyLink: "https://www.coursera.org/account/accomplishments/verify/ZWS67S2B9RUL"
+      viewLink: `${process.env.PUBLIC_URL}/PDFs/Coursera Certificate.pdf`,
+      verifyLink: "https://www.coursera.org/account/accomplishments/verify/ZWS67S2B9RUL",
     },
     {
-      img: "/images/Chatbot.png",
+      img: ChatbotImg,
       title: "Smart Chatbot",
       description: "Use SharePoint & Power Virtual Agent to Create Smart Chatbot",
-      viewLink: "/PDFs/Chatbot- Coursera.pdf",
-      verifyLink: "https://www.coursera.org/account/accomplishments/verify/JNVJP67NPPAB"
+      viewLink: `${process.env.PUBLIC_URL}/PDFs/Chatbot- Coursera.pdf`,
+      verifyLink: "https://www.coursera.org/account/accomplishments/verify/JNVJP67NPPAB",
     },
     {
-      img: "/images/HMC Letter.png",
+      img: HMCInternshipImg,
       title: "HMC Internship Letter",
       description: "HMC Internship completion letter (01 August 2022 - 31 August 2022, 04 Weeks)",
-      viewLink: "/PDFs/HMC.pdf"
+      viewLink: `${process.env.PUBLIC_URL}/PDFs/HMC.pdf`
     }
   ];
+  
 
   return (
     <section id="certificates" className="container mx-auto w-full min-w-full py-20 text-center px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-gray-900 to-gray-800 dark:from-gray-800 dark:to-black text-white">
