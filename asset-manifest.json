@@ -1,15 +1,31 @@
 {
   "files": {
     "main.css": "/Portfolio-adv/static/css/main.a3076dce.css",
-    "main.js": "/Portfolio-adv/static/js/main.9583ba5e.js",
+    "main.js": "/Portfolio-adv/static/js/main.d85678bf.js",
     "static/js/453.acca0757.chunk.js": "/Portfolio-adv/static/js/453.acca0757.chunk.js",
+    "static/media/HMC Letter.png": "/Portfolio-adv/static/media/HMC Letter.d9b7dc75acfc8c426a8a.png",
+    "static/media/Chatbot.png": "/Portfolio-adv/static/media/Chatbot.a90ab2d922563e7c7945.png",
+    "static/media/Meta course.png": "/Portfolio-adv/static/media/Meta course.283b3dc85f3ea0b6ea5f.png",
+    "static/media/weather-app.png": "/Portfolio-adv/static/media/weather-app.f16e8681a09641217ba0.png",
+    "static/media/Notes Taking App.png": "/Portfolio-adv/static/media/Notes Taking App.c184767ac78031665831.png",
+    "static/media/Portfolio (Old Version).png": "/Portfolio-adv/static/media/Portfolio (Old Version).d0f2452feb28c4e722db.png",
+    "static/media/UI (Bootstrap).png": "/Portfolio-adv/static/media/UI (Bootstrap).4f0286293c95e761e1fc.png",
+    "static/media/Student Profile - Generic.png": "/Portfolio-adv/static/media/Student Profile - Generic.b9af0ec1b3a1d847f232.png",
+    "static/media/FB-Login-Clone.png": "/Portfolio-adv/static/media/FB-Login-Clone.597f45bcbaf68a5ca49e.png",
+    "static/media/Navbars-Sidebars, Tabs-Page.png": "/Portfolio-adv/static/media/Navbars-Sidebars, Tabs-Page.e4584d859581621a0319.png",
+    "static/media/Netflix-Login Clone.png": "/Portfolio-adv/static/media/Netflix-Login Clone.52c83a78488a26f68885.png",
+    "static/media/BMI.png": "/Portfolio-adv/static/media/BMI.86c3b2eed2530c035e4b.png",
+    "static/media/Expense.png": "/Portfolio-adv/static/media/Expense.175a6c9bd95024d05281.png",
+    "static/media/Login (PHP).png": "/Portfolio-adv/static/media/Login (PHP).c025688e1865902c9527.png",
+    "static/media/Simple Nabar and Sidebars.png": "/Portfolio-adv/static/media/Simple Nabar and Sidebars.b1c6436e9364c4e7ce95.png",
+    "static/media/Counter.png": "/Portfolio-adv/static/media/Counter.d27f06df744ec95fb8f9.png",
     "index.html": "/Portfolio-adv/index.html",
     "main.a3076dce.css.map": "/Portfolio-adv/static/css/main.a3076dce.css.map",
-    "main.9583ba5e.js.map": "/Portfolio-adv/static/js/main.9583ba5e.js.map",
+    "main.d85678bf.js.map": "/Portfolio-adv/static/js/main.d85678bf.js.map",
     "453.acca0757.chunk.js.map": "/Portfolio-adv/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3076dce.css",
-    "static/js/main.9583ba5e.js"
+    "static/js/main.d85678bf.js"
   ]
 }
