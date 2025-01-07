@@ -10,14 +10,16 @@ const Header = () => {
         Welcome to My Portfolio
       </h1>
       <p className="text-lg sm:text-xl mb-6 text-gray-300 opacity-90 dark:text-gray-400">
-        I'm a Front-End Developer creating beautiful and functional web pages.
+      Hi, I'm <span className="font-extrabold text-xl sm:text-2xl text-gray-200 dark:text-gray-200">Muhammad Usman Sharif</span>, a front-end developer (beginner) on road to become full stack developer in future.
       </p>
+
       <a
-        href="/PDFs/Usman Sharif - CV.pdf"
-        className="download-btn bg-transparent border-2 border-white text-white py-2 px-6 rounded-full font-medium tracking-wide transition-colors duration-300 ease-in-out hover:bg-white hover:text-black dark:border-gray-200 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
-      >
-        Download CV
-      </a>
+  href="/Portfolio-adv/PDFs/Usman Sharif - CV.pdf"
+  className="download-btn bg-transparent border-2 border-white text-white py-2 px-6 rounded-full font-medium tracking-wide transition-colors duration-300 ease-in-out hover:bg-white hover:text-black dark:border-gray-200 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+>
+  Download CV
+</a>
+
     </div>
     
   );
