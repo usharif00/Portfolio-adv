@@ -14,7 +14,7 @@ const Header = () => {
       </p>
 
       <a
-  href="/Portfolio-adv/PDFs/Usman Sharif - CV.pdf"
+  href="/Portfolio-adv/PDFs/usharif-CV.pdf"
   className="download-btn bg-transparent border-2 border-white text-white py-2 px-6 rounded-full font-medium tracking-wide transition-colors duration-300 ease-in-out hover:bg-white hover:text-black dark:border-gray-200 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
 >
   Download CV
